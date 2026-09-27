@@ -27,7 +27,7 @@ Hand Gesture Math Operations is a web-based application that performs basic math
 
    ```bash
    git clone https://github.com/rayyanarchy/gesture-math.git
-   cd hand-gesture-math
+   cd gesture-math
    ```
 
 2. **Install dependencies**
