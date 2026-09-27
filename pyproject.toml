@@ -1,0 +1,12 @@
+[project]
+name = "hand-gesture-math"
+version = "0.1.0"
+description = "Perform basic math operations using hand gestures captured via webcam"
+requires-python = ">=3.9"
+dependencies = [
+    "Flask==2.3.2",
+    "mediapipe==0.10.14"
+]
+
+[tool.uv]
+package = false
